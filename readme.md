@@ -6,7 +6,7 @@
 
 Working with language models like Google Gemini often results in inconsistent and unstructured JSON outputs. This project aims to solve this by implementing a 9 Step approuch to ensure a consistent JSON structure, this is beneficial for application development.
 
-For more detailed information, please refer to my [blog post](https://learnwithhasan.com/consistent-json-gemini-python/) on the project.
+For more detailed information, please refer to my [blog post](https://learnwithhasan.com/consistent-json-gemini-python/?utm_source=github&utm_medium=readme&utm_campaign=Google-Gemeni-Consistent-JSON-Response&utm_content=body) on the project.
 
 
 ## Features
@@ -27,12 +27,12 @@ Included is a 'Simple Blog Title Generator Tool' demonstrating the practical app
 
 This tool is one block. The book has the other 46.
 
-**[Vibe Engineering Blocks](https://learnwithhasan.com/blocks/)** is my free 74-page book.
+**[Vibe Engineering Blocks](https://learnwithhasan.com/blocks/?utm_source=github&utm_medium=readme&utm_campaign=Google-Gemeni-Consistent-JSON-Response&utm_content=footer)** is my free 74-page book.
 47 building blocks for shipping real apps with AI. One block per page, each with the exact
 prompt to hand your AI.
 
-Built by **[Hasan Aboul Hasan](https://learnwithhasan.com)**. I build real products with AI and
+Built by **[Hasan Aboul Hasan](https://learnwithhasan.com/?utm_source=github&utm_medium=readme&utm_campaign=Google-Gemeni-Consistent-JSON-Response&utm_content=footer)**. I build real products with AI and
 write down exactly how.
-[Guides](https://learnwithhasan.com/guides/) &nbsp;·&nbsp;
+[Guides](https://learnwithhasan.com/guides/?utm_source=github&utm_medium=readme&utm_campaign=Google-Gemeni-Consistent-JSON-Response&utm_content=footer) &nbsp;·&nbsp;
 [YouTube](https://www.youtube.com/@HasanAboulHasan) &nbsp;·&nbsp;
-[Community](https://learnwithhasan.com/community/)
+[Community](https://learnwithhasan.com/community/?utm_source=github&utm_medium=readme&utm_campaign=Google-Gemeni-Consistent-JSON-Response&utm_content=footer)
